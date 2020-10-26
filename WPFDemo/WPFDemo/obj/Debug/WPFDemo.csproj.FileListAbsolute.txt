@@ -1,0 +1,14 @@
+C:\Users\Fraleym7700\source\repos\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
+C:\Users\Fraleym7700\source\repos\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+C:\Users\Fraleym7700\source\repos\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+C:\Users\Fraleym7700\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csprojAssemblyReference.cache
+C:\Users\Fraleym7700\source\repos\WPFDemo\WPFDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Fraleym7700\source\repos\WPFDemo\WPFDemo\obj\Debug\App.g.cs
+C:\Users\Fraleym7700\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+C:\Users\Fraleym7700\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.lref
+C:\Users\Fraleym7700\source\repos\WPFDemo\WPFDemo\obj\Debug\MainWindow.baml
+C:\Users\Fraleym7700\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
+C:\Users\Fraleym7700\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+C:\Users\Fraleym7700\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.cache
+C:\Users\Fraleym7700\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
+C:\Users\Fraleym7700\source\repos\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb
